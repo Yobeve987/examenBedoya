@@ -2,3 +2,4 @@ mkdir examenBedoya examenBedoya/prog examenBedoya/si examenbedoya/bbdd
 touch prog/index.php
 cp ../prog/index.php ../bbdd/index.php
 mv ../bbdd/index.php ../bbdd/consultas.sql
+mkdir si/git
