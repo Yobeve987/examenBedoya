@@ -1,1 +1,2 @@
 mkdir examenBedoya examenBedoya/prog examenBedoya/si examenbedoya/bbdd
+touch prog/index.php
