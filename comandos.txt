@@ -1,0 +1,1 @@
+mkdir examenBedoya examenBedoya/prog examenBedoya/si examenbedoya/bbdd
