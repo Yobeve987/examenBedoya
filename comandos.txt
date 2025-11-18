@@ -5,3 +5,4 @@ mv ../bbdd/index.php ../bbdd/consultas.sql
 mkdir si/git
 cd si/git
 touch ../../login
+rm -r ../../bbdd/consultas.sql
