@@ -3,3 +3,4 @@ touch prog/index.php
 cp ../prog/index.php ../bbdd/index.php
 mv ../bbdd/index.php ../bbdd/consultas.sql
 mkdir si/git
+cd si/git
