@@ -7,3 +7,4 @@ cd si/git
 touch ../../login
 rm -r ../../bbdd/consultas.sql
 mv ../../prog/index.php index2.php
+echo "select * from clientes" > ../../login
